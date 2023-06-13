@@ -1,6 +1,6 @@
 # UI Lab 1
-![](terminal-icon.png)
-![](gui-icon.png)
+![](https://github.com/ppc-ntu-khpi/35-tui-1-CAH4E33/blob/master/Images/terminal-icon.png)
+![](https://github.com/ppc-ntu-khpi/35-tui-1-CAH4E33/blob/master/Images/gui-icon.png)
 
 ## На "п'ять"
 1. Перепишіть метод **ShowCustomerDetails** з використанням класів *Bank, Customer, Account* та ін. з наших попередніх лаб - інформація про клієнтів банку та їх рахунках має читатись з файлу **test.dat** (робота номер 8, [файл даних](https://github.com/liketaurus/TUI-Labs/blob/master/data/test.dat) також є в цьому ж репозиторію). Інформацію про клієнта (та про перший рахунок, що йому належить) ви маєте побачити, увівши номер клієнта.
